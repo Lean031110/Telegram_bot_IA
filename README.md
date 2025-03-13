@@ -43,7 +43,7 @@ Este es un bot de Telegram con funcionalidades de inteligencia artificial para m
 
 Inicia el bot:
 ```sh
-python bot.py
+python main.py
 ```
 
 ## Notas
