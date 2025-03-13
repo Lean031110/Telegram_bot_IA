@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+nltk
+scikit-learn
+pandas
+joblib
+python-docx
+openpyxl
